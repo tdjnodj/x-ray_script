@@ -1,5 +1,7 @@
 # Xray-script
 
+原作者:misaka
+
 Xray一键安装脚本，支持自动生成伪装站，支持和宝塔面板共存，支持IPv4、IPv6 VPS
 
 由于纯IPv6 VPS不支持GitHub的访问，所以安装之前请先设置DNS64服务器或安装WARP脚本
